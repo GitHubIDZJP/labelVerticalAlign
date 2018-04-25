@@ -1,0 +1,2 @@
+# labelVerticalAlign
+UILabel 文字居于上下左右显示ZWVerticaAlignLabel
